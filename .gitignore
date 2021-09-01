@@ -7,4 +7,7 @@ UnityPackage/Temp/
 
 UnityPackage/.idea/.idea.UnityPackage/.idea/
 
-UnityPackage/
+
+UnityPackage/Assembly-CSharp.csproj
+
+UnityPackage/obj/Debug/
