@@ -1,0 +1,3 @@
+[submodule "UnityPackage/Assets/Sub"]
+	path = UnityPackage/Assets/Sub
+	url = https://github.com/Bombric/UnityPackageSub.git
