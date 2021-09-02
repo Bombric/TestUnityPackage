@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.mycustompackage.example": {
-      "version": "file:MyTestCustomPackage",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.2d.animation": {
       "version": "5.0.6",
       "depth": 0,

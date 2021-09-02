@@ -52,10 +52,10 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Packages\MyTestCustomPackage\Runtime\ThridChanges\ThridChanges.cs" />
-     <Compile Include="Packages\MyTestCustomPackage\Runtime\FirstChanges\SomeCode.cs" />
-     <Compile Include="Packages\MyTestCustomPackage\Runtime\SecondChanges\SomeNewChanges2.cs" />
-     <None Include="Packages\MyTestCustomPackage\Runtime\Alex.PackageExample.asmdef" />
+     <Compile Include="Assets\Scripts\MyTestCustomPackage\Runtime\ThridChanges\ThridChanges.cs" />
+     <Compile Include="Assets\Scripts\MyTestCustomPackage\Runtime\SecondChanges\SomeNewChanges2.cs" />
+     <Compile Include="Assets\Scripts\MyTestCustomPackage\Runtime\FirstChanges\SomeCode.cs" />
+     <None Include="Assets\Scripts\MyTestCustomPackage\Runtime\Alex.PackageExample.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
